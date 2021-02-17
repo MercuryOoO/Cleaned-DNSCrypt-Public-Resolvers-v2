@@ -1,6 +1,6 @@
 ## Welcome to MercuryOoO's GitHub Pages
 
-### DNSCrypt Public Resolvers v2 Without resolvers based China or incompatible with anonymization
+### DNSCrypt Public Resolvers v2 Without resolvers China based or incompatible with anonymization
 
 [Cleaned DNSCrypt Public Resolves v2](https://raw.githubusercontent.com/MercuryOoO/Cleaned-DNSCrypt-Public-Resolvers-v2/master/cleaned_public_resolvers.md)
 
