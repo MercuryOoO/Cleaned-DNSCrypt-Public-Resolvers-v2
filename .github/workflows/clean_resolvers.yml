@@ -27,11 +27,11 @@ jobs:
           python-version: '3.9' # Version range or exact version of a Python version to use, using SemVer's version range syntax
           architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
 
-      - name: Download DNScrypt public resovlers v2
+      - name: Download DNScrypt public resovlers
         uses: carlosperate/download-file-action@v1.0.3
         id: download-resolvers
         with:
-          file-url: 'https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v2/public-resolvers.md'
+          file-url: 'https://download.dnscrypt.info/dnscrypt-resolvers/v3/public-resolvers.md'
           file-name: 'public-resolvers.md'
           location: './'
 
