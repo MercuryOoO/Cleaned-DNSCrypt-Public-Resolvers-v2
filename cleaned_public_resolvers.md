@@ -8,18 +8,6 @@ https://www.aa.net.uk/legal/dohdot-disclaimer/
 sdns://AgcAAAAAAAAADTIxNy4xNjkuMjAuMjOgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgNZG5zLmFhLm5ldC51awovZG5zLXF1ZXJ5
 
 
-## aaflalo-me-nyc
-
-DNS-over-HTTPS server running dns-over-https with PiHole for Adblocking in NYC, USA.
-
-Non-logging, AD-filtering, supports DNSSEC.
-Hosted in New York on a RamNode Cloud Instance.
-
-https://www.aaflalo.me/2019/01/dns-over-https-server-aaflalo-me/
-
-sdns://AgMAAAAAAAAADjE2OC4yMzUuODEuMTY3oD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIEmRucy1ueWMuYWFmbGFsby5tZQovZG5zLXF1ZXJ5
-
-
 ## acsacsar-ams-ipv4
 
 Public non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver hosted on Scaleway by @acsacsar (twitter)
@@ -119,13 +107,6 @@ Resolver in Amsterdam. DoH protocol. Non-logging. Blocks ads, malware and tracke
 sdns://AgMAAAAAAAAAHFsyMDAxOmJjODoxODMwOjIwMTg6OjFdOjQ0NDOgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgXZG5zbmwuYWxla2JlcmcubmV0OjQ0NDMKL2Rucy1xdWVyeQ
 
 
-## ams-dnscrypt-nl
-
-Resolver in Amsterdam. Dnscrypt protocol. Non-logging, non-filtering, DNSSEC.
-
-sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRgGOcYOfxYh8yLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5s
-
-
 ## ams-dnscrypt-nl-ipv6
 
 Resolver in Amsterdam. Dnscrypt protocol. Non-logging, non-filtering, DNSSEC.
@@ -145,22 +126,6 @@ sdns://AgcAAAAAAAAADTUxLjE1LjEyNC4yMDigPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9u
 Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
 
 sdns://AgcAAAAAAAAAF1syMDAxOmJjODoxODMwOjIwMTg6OjFdoD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIEmRuc25sLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
-
-
-## arapurayil-dnscrypt-in-ipv4
-
-DNSCrypt v2 server(ipv4). Also supports DoH,DoT,DoQ protocols. Located in Mumbai, India. Visit https://www.dns.arapurayil.com for details.
-Non-logging | Filtering | DNSSEC | anti-CNAME cloaking | QNAME Minimization | No EDNS Client-Subnet
-
-sdns://AQMAAAAAAAAAEDMuNy4xNzYuMTIzOjU0NDMg-GBSt-IKdoAr8OhQg-0h9Q15sZ6vSZ1vEhBYmwkfox4dMi5kbnNjcnlwdC1jZXJ0LmFyYXB1cmF5aWwtaW4
-
-
-## arapurayil-dnscrypt-in-ipv6
-
-DNSCrypt v2 server(ipv6). Also supports DoH,DoT,DoQ protocols. Located in Mumbai, India.  Visit https://www.dns.arapurayil.com for details.
-Non-logging | Filtering | DNSSEC | anti-CNAME cloaking | QNAME Minimization | No EDNS Client-Subnet
-
-sdns://AQMAAAAAAAAALFsyNDA2OmRhMWE6YzU5OmFlMDA6MjBmOmRiZjU6YTEyYzo1YWZiXTo1NDQzIPhgUrfiCnaAK_DoUIPtIfUNebGer0mdbxIQWJsJH6MeHTIuZG5zY3J5cHQtY2VydC5hcmFwdXJheWlsLWlu
 
 
 ## arapurayil-doh-in
@@ -228,15 +193,6 @@ Maintained by Abhay Rana aka Nemo.
 If you are within India, this might be a nice DNS server to use.
 
 sdns://AQQAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham9IvhoceEBsyLmRuc2NyeXB0LWNlcnQuY2FwdG5lbW8uaW4
-
-
-## cira-family
-
-CIRA DoH resolvers, blocking trackers, malware, phishing and pornography.
-Operated by the .CA registry. Built by Canadians for Canadians.
-https://www.cira.ca/fr/cybersecurity-services/canadian-shield
-
-sdns://AgEAAAAAAAAAACA_4zhjTgUQYz3kU8o1CxXOwzmz3Li6nyot0k0QqDj-6x1mYW1pbHkuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
 
 
 ## circl-doh
@@ -694,24 +650,6 @@ Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTMUY9oK-M998E2k11bRsyLmRuc2NyeXB0LWNlcnQudHouZDB3bi5iaXo
 
 
-## decloudus-nogoogle-tst
-
-Servers helps you deGoogle and unGoogle by completely blocking Google tracking in addition to annoying ads, online trackers, and malware. Supports DNSSEC. No Logs.
-
-Contributed by: https://decloudus.com
-
-sdns://AQMAAAAAAAAAEjE3Ni45LjE5OS4xNTg6ODQ0MyD73Ye9XeCsS7TdFu9fRP7s5k-0aL91yygulGVmeOAKLh4yLmRuc2NyeXB0LWNlcnQuRGVDbG91ZFVzLXRlc3Q
-
-
-## decloudus-nogoogle-tstipv6
-
-Servers helps you deGoogle and unGoogle by completely blocking Google tracking in addition to annoying ads, online trackers, and malware. Supports DNSSEC. No Logs. For IPv6.
-
-Contributed by: https://decloudus.com
-
-sdns://AQMAAAAAAAAAG1syYTAxOjRmODoxNTE6MTFiMDo6M106ODQ0MyD73Ye9XeCsS7TdFu9fRP7s5k-0aL91yygulGVmeOAKLh4yLmRuc2NyeXB0LWNlcnQuRGVDbG91ZFVzLXRlc3Q
-
-
 ## deffer-dns.au
 
 DNSSEC/Non-logged/Uncensored in Sydney (AWS).
@@ -836,13 +774,6 @@ sdns://AQcAAAAAAAAADzE2Ny4xMTQuMjIwLjEyNSAaU6PJUHicvdELGTOkaJtshGpA8bc9F1KuysmCn
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure.
 
 sdns://AgcAAAAAAAAADzE2Ny4xMTQuMjIwLjEyNaA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBRkbnMxLmRuc2NyeXB0LmNhOjQ1MwovZG5zLXF1ZXJ5
-
-
-## dnscrypt.ca-1-ipv6-doh
-
-Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure.
-
-sdns://AgcAAAAAAAAAJlsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTowZjg2OmU2ODldoD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIFGRuczEuZG5zY3J5cHQuY2E6NDUzCi9kbnMtcXVlcnk
 
 
 ## dnscrypt.ca-2
@@ -1515,15 +1446,6 @@ https://dns.njal.la/
 sdns://AgcAAAAAAAAADDk1LjIxNS4xOS41M6A-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiAtkbnMubmphbC5sYQovZG5zLXF1ZXJ5
 
 
-## opennic-R4SAS
-
-DNSSEC - OpenNIC - Non-logging - Uncensored - hosted on ovh.com
-Location: Gravelines, France.
-Maintained by R4SAS.
-
-sdns://AQcAAAAAAAAADTE1MS44MC4yMjIuNzkgqdYyOk8lgAkmGXUVAs4jHh922d53bIfGu7KKDv_bDk4gMi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMuaTJwZC54eXo
-
-
 ## opennic-fische
 
 OpenNIC • Non-logging • DNSSEC
@@ -1553,6 +1475,19 @@ No Logging / Ad-Blocking
 Information at https://dns.oszx.co
 
 sdns://AQIAAAAAAAAAETUxLjM4LjgzLjE0MTo1MzUzIMwm9_oYw26P4JIVoDhJ_5kFDdNxX1ke4fEzL1V5bwEjFzIuZG5zY3J5cHQtY2VydC5vc3p4LmNv
+
+
+## pf-doh
+
+DoH server by post-factum
+
+Hosted in Zürich, Switzerland using Oracle Cloud, cached globally via Cloudflare
+
+Non-logging, non-filtering, supports DNSSEC
+
+https://dns.post-factum.tk
+
+sdns://AgcAAAAAAAAAACCcu6D8li96KzHGKxsXWi3kxQqDlXJ-MLYmqAAJp4Dj2BJkb2gucG9zdC1mYWN0dW0udGsKL2Rucy1xdWVyeQ
 
 
 ## plan9-dns
@@ -1747,13 +1682,6 @@ DNSCrypt v2, no logs, uncensored, DNSSEC. Hosted in London UK on Vultr
 https://www.dnscrypt.uk
 
 sdns://AQcAAAAAAAAAKFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl0g7Uk9jOrXkGZPBjxHt5WaI2ktfJA2PJ5DzLWRe-W0HuUdMi5kbnNjcnlwdC1jZXJ0LnYuZG5zY3J5cHQudWs
-
-
-## ventricle.us
-
-Public DNSCrypt resolver provided by Jacob Henner
-
-sdns://AQcAAAAAAAAADTEwNy4xNzAuNTcuMzQg6YXxGK1OPMZf8iUgGJDG9Vi3W1pS9WsXz-rBAFyLm6olMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LnZlbnRyaWNsZS51cw
 
 
 ## yandex
